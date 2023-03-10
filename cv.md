@@ -12,7 +12,9 @@
 
 ## About Me ##
 
-My name is Ibrokhim.
+My name is Ibrokhim. I am junior web-developer.
+I worked as a front-end developer.
+I want to improve my skills and knowledge.
 
 ***
 
