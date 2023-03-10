@@ -4,7 +4,7 @@
 
 ## Contacts ##
 
-* email: [ibrokhim.abdurakhmonov@gmail.com](ibrokhim.abdurakhmonov@gmail.com)
+* email: ibrokhim.abdurakhmonov@gmail.com
 * github: [Ibrokhim41](https://github.com/Ibrokhim41/rsschool-cv)
 * telegram: [@Ibrokhim41](https://t.me/Ibrohim41)
 
@@ -47,6 +47,6 @@ function splitStrings(str){
 
 ## Languages ##
 
-Uzbek - native
-Eglish - B1
-Russian - B2
+*	Uzbek - native
+*	Eglish - B1
+*	Russian - B2
